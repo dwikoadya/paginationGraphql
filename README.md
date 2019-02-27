@@ -3,9 +3,11 @@ Mongoose Graphql Pagination
 
 
 ## how to start
+```
 git clone https://github.com/rubicode/paginationGraphql.git
 cd paginationGraphql && npm install
 npm start
+```
 
 ## go to this url : http://localhost:3000/graphql, and then execute this query to try pagination :
 ```
